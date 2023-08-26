@@ -13,6 +13,6 @@ With the assistance of friends from MalaysiaKini Lab, I gained access to raw COV
 
 ## Visualization
 
-![Confirmed Cases Dashboard]("Confirmed Cases Dashboard.png")
+![Confirmed Cases Dashboard](https://raw.githubusercontent.com/HachiroSan/COVID19-Dashboard/main/Confirmed%20Cases%20Dashboard.png)
 ![Confirmed Death Cases Dashboard]("Confirmed Death Cases Dashboard.png")
 ![Summary and Forecast]("Summary and Forecast.png")
